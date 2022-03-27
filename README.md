@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mert
-- 👀 I’m interested in Programming (C, Java, Python, Web Programming, Database Programming and etc...)
+- 👀 I’m interested in Computers and Programming (C, Java, Python, Web Programming, Database Programming and etc...)
 - 🌱 I’m currently learning Mobile Programming. (I use Java and XML for coding.)
 
 <!---
